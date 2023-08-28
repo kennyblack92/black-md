@@ -1,8 +1,8 @@
 {
-  "name": "Ikratos-MD-v1",
-  "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "name": "black-md",
+  "description": "WhatsApp Bot",
+  "repository": "https://github.com/kennyblack92/black-md",
+  "logo": "https://i.imgur.com/L25MK31.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
    "buildpacks": [
   {
