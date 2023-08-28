@@ -1,27 +1,27 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/cc8jfkX/01.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/hyyBspm> <img src="https://ibb.co/hyyBspm"alt="01" border="0" /></a>
 </p>
 
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">black md</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/kennyblack92"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+EXCEL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="blackBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
-<h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
+<a href="https://github.com/kennyblack92"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<h1 align="centre"> Releasing New Bot Soon</h1>
 
-## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV0B2ZHAy9OYaqrZi) To Stay Tuned.
+## Join [WhatsApp-Group](https://chat.whatsapp.com/DtgrVP6ItlEJDdqaEsGPr8) To Stay Tuned.
 
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/2347039570336">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:bmclips001@gmail.com">
@@ -29,7 +29,7 @@
   </a> &nbsp;&nbsp;
 
 ## ``Group Hosting Bot``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHAy9OYaqrZi) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DtgrVP6ItlEJDdqaEsGPr8) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
@@ -53,7 +53,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/kennyblack92/black-md)](https://repl.it/github/kennyblack92/black-md)
 
 <details>
 <summary>TERMUX DEPLOYMENT</summary>
@@ -65,8 +65,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-$ cd Ikratos-MD-v1
+$ git clone https://github.com/kennyblack92/black-md
+$ cd black-md
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -111,8 +111,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
+git clone https://github.com/kennyblack92/black-md
+cd black-md
 npm install
 npm update
 ```
@@ -128,8 +128,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
+git clone https://github.com/kennyblack92/black-md
+cd black-md
 npm install
 npm update
 ```
@@ -183,7 +183,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 <h1 align="center">RECODED BY</h1>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="300" height="300" alt="xIKRATOSx"/></a>
+<a href="https://github.com/kennyblack92"><img src="https://github.com/kennyblack92.png" width="300" height="300" alt="kennyblack92"/></a>
 </p>
 
 ----------
