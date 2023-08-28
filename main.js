@@ -175,11 +175,11 @@
      const { receivedPendingNotifications, connection, lastDisconnect, isOnline, isNewLogin } = update 
    if (isNewLogin) conn.isInit = true 
    if (connection == 'connecting') console.log(chalk.redBright('⚡ Activating bot please wait a moment...')) 
-   if (connection == 'open') console.log(chalk.green('✅ Connected')) 
+   if (connection == 'open') console.log(chalk.green(' Connected')) 
    if (isOnline == true) console.log(chalk.green('Status Active')) 
    if (isOnline == false) console.log(chalk.red('Status Dead')) 
-   if (receivedPendingNotifications) console.log(chalk.yellow('Wait Reading Old Messages')) 
-   if (connection == 'close') console.log(chalk.red('⏱️ disconnected & tried to reconnect ...')) 
+   if (receivedPendingNotifications) console.log(chalk.yellow('Reading Old Messages')) 
+   if (connection == 'close') console.log(chalk.red('⏱️ disconnected & trying to reconnect ...')) 
    global.timestamp.connect = new Date 
    if (lastDisconnect && lastDisconnect.error && lastDisconnect.error.output && lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut && conn.ws.readyState !== CONNECTING) { 
      console.log(global.reloadHandler(true)) 
@@ -215,16 +215,16 @@
      conn.ev.off('creds.update', conn.credsUpdate) 
    } 
   
-   conn.welcome = '❖━━━━━━[ ᴡᴇʟᴄᴏᴍᴇ ]━━━━━━❖\n\n┏––––––━━━━━━━━•\n│☘︎ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hi @user)\n├[ ɪɴᴛʀᴏ ]—\n│ ɴᴀᴍᴀ: \n│ ᴜᴍᴜʀ: \n│ ɢᴇɴᴅᴇʀ:\n┗––––––━━┅┅┅\n\n––––––┅┅ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ┅┅––––––\n@desc' 
-   conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nGoodBye  @user 👋😃\n\nSomeone Just Left The Room @subject' 
-   conn.spromote = '@user congratulations you are now an admin!' 
+   conn.welcome = '❖━━━━━━[ ᴡᴇʟᴄᴏᴍᴇ ]━━━━━━❖\n\n┏––––––━━━━━━━━•\n│☘︎ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 ohayo @user)\n├[ ɪɴᴛʀᴏ ]—\n│ ɴᴀᴍe: \n│ ᴜᴍᴜʀ: \n│ ɢᴇɴᴅᴇʀ:\n┗––––––━━┅┅┅\n\n––––––┅┅ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ┅┅––––––\n@desc' 
+   conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nGoodBye  @user 👋😪\n\nSomeone Just Left The Room @subject' 
+   conn.spromote = '@user congrats you are now an admin!' 
    conn.sdemote = '@user You are no longer an admin!' 
-   conn.sDesc = 'Description bdl di gai hy, new description: \n@desc' 
+   conn.sDesc = 'new description: \n@desc' 
    conn.sSubject = 'Group name has been changed, new name: \n@subject' 
    conn.sIcon = 'Icon updated!' 
    conn.sRevoke = 'Link group updated, new link \n@revoke' 
-   conn.sAnnounceOn = 'Group telah di tutup!\nsekarang hanya admin yang dapat mengirim pesan.' 
-   conn.sAnnounceOff = 'Group telah di buka!\nsekarang semua peserta dapat mengirim pesan.' 
+   conn.sAnnounceOn = 'Group closed!\nnow only the admins can send messages.' 
+   conn.sAnnounceOff = 'Group opened!\n all participants can send messages.' 
    conn.sRestrictOn = 'Edit Info Group changed  to only admin!' 
    conn.sRestrictOff = 'Edit Info Group is changed to all participants!' 
   
