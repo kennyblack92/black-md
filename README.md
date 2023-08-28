@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">black md</h1>
+<h1 align="center">black md🥷</h1>
 <p align="center">
   <a href="https://github.com/kennyblack92"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+EXCEL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -34,7 +34,7 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kennyblack92/black-md)
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
