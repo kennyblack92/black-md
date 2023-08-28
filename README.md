@@ -34,7 +34,7 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kennyblack92/black-md)
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
