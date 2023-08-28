@@ -1,5 +1,5 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "black-md",
     "version": "1.7.0",
     "description": "Ikratos-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/kennyblack92/black-md",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "EXCEL"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/xIKRATOSx/black-md.git"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/kennyblack92/black-md/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
